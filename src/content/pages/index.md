@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: ExiledVegan
+tagline: Javascript Developer
+featuredImage: /assets/dragon_room.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Front End Web2 developer with 4 years of experience under the belt taking the plunge in the Web3 space.
