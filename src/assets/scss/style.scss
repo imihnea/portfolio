@@ -406,7 +406,8 @@ article img {
     }
   }
   @media (max-width: $breakpoint-md) {
-    padding: 50px 0 ul {
+     ul {
+      padding: 50px 0;
       display: flex;
       justify-content: space-between;
     }
