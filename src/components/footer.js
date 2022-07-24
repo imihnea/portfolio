@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import { Link } from "gatsby"
-import { RiHeart2Line } from "react-icons/ri"
+import { RiCopyrightFill } from "react-icons/ri"
 
 const Footer = () => (
   <footer
@@ -12,11 +11,11 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        A GatsbyJS Starter for Netlify CMS, Made with{" "}
-        <span className="icon -love">
-          <RiHeart2Line />
+        Copyright{" "}
+        <span className="icon">
+          <RiCopyrightFill />
         </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
+        ExiledVegan 2022
       </p>
     </div>
   </footer>
