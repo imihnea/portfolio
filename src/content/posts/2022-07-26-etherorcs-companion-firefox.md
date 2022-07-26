@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: EtherOrcs Companion Firefox
-slug: /etherorcs-companion-firefox
+title: EtherOrcs Helper Firefox
+slug: /etherorcs-helper-firefox
 date: 2022-07-26 10:11
 description: Firefox extension made to improve the EtherOrcs gaming experience.
 featuredImage: /assets/firefox_pixel.png
