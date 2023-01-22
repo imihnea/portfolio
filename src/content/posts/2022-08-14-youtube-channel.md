@@ -10,6 +10,4 @@ Channel link: https://www.youtube.com/channel/UC4igtUGRd_gGNrsJC-wyHtA
 
 I've decided to start posting on my YouTube channel once again. I've always enjoyed creating video content, so now that I have the proper equipment I can make videos from time to time.
 
-My current plan is to create EtherOrcs videos as much as possible and possibly expand on other projects if I ever get interested in playing more.
-
-The NFT space is still young, so I'm sure there will be plenty more games to play as time goes on.
+A﻿t the moment I am not actively working on new videos as I am more focused on my developer job and managing my wife's business which coincidentally is based on content creation as well.
