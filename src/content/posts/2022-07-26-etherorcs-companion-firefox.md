@@ -14,4 +14,4 @@ I've always enjoyed speed-running in games, so making an extension to reduce my 
 
 Since creating the extension I've found out another extension for Chrome made by one of the top EtherOrcs holders, [Blumentopf](https://github.com/blumentopf-eth). You can find his extension [here](https://github.com/blumentopf-eth/etherorcs-helper). I've imported the features implemented by him into my extension, so that anyone who wants to use them has the ability to.
 
-In the future I plan to expand the extension with more features that I might find necessary for a more time-efficient gaming experience.
+A﻿ lot of people have already used this extension from the EtherOrcs community, so if you have any doubts feel free to ask anyone from the Discord and they'll confirm it is safe to use.
