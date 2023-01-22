@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact
 ---
 Got a burning question regarding one of my projects, need a new **Website**, or you would like to work together? Perhaps a cheeky user story or a feature implemented? I'm always happy to talk!
 
