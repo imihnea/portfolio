@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: ExiledVegan
-tagline: Javascript Developer
+tagline: Front-End Developer
 featuredImage: /assets/dragon_room.png
 cta:
-  ctaText: Know more
+  ctaText: Get in touch
   ctaLink: /about
 ---
-Front End Web2 developer with 4 years of experience under the belt taking the plunge in the Web3 space.
+Hey! I'm a Front-End Web developer with 4 years of experience under the belt, eager to help you with your project needs.
