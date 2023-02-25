@@ -5,7 +5,7 @@ title: About Me
 ---
 **Welcome! Nice to have you here!**
 
-At the time of writing this I am employed and working on multiple projects at the same time. I've been working on the front-end of a browser game for close to 4 years. My work consists of mostly writing JavaScript with an Angular framework, besides the usual Html/CSS which get mixed in with the PHP templating and Sass styling for faster development.
+At the time of writing this I am employed and working on multiple projects at the same time. I've been working on the front-end of a browser game for close to 4 years. My work consists of mostly writing JavaScript with an Angular framework, besides the usual Html/CSS which get mixed in with the templating and Sass styling for faster development.
 
 Before this I had experience with starting a traditional Web2 startup and working in the crypto industry on the same front. My first internship was actually at one of the biggest crypto trading companies in my country. 
 
