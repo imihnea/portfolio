@@ -12,6 +12,8 @@ T﻿he scope of this project was porting a mobile game shop to a web based one. 
 
 T﻿he Ethereals also came along with a few webshop sections and a whitepaper describing their purpose and other info. For these pages I did not have a mobile implementation, but a few Photoshop PSD files.
 
+I﻿ invite you to create an account and play a bit, I personally really enjoy this game.
+
 ![GoN Homepage](/assets/chrome_ystp4lullf.png "GoN Homepage")
 
 ![GoN Webshop 1](/assets/chrome_e52sqcelus.png "GoN Webshop 1")
