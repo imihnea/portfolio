@@ -13,3 +13,5 @@ M﻿y work on this project is pretty extensive. Erepublik is a pretty old game, 
 I have refactored a lot of implementations of various elements throughout the website and cleaned up a ton of the codebase. The main framework used is Angular with a lot of Jquery. The age of the website is the explanation of why Jquery is still heavily used.
 
 I﻿ cannot go into much detail about the nitty gritty aspects that are backend and deployment related, but I can say for certain that I was involved in creating or modifying most of the visuals that are present now on the website, especially the ones that were added in the past 4 years.
+
+I﻿ invite you to create an account and play a bit to get an idea of the depth of this project.
