@@ -15,5 +15,3 @@ T﻿his website was created using Svelte as the main framework. Implementation o
 ![](/assets/chrome_33mvdm23gf.png)
 
 ![](/assets/chrome_zynpsthrnu.png)
-
-![](/assets/chrome_k0tpooxcgo.png)
