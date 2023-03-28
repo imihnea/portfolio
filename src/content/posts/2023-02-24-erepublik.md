@@ -8,10 +8,8 @@ featuredImage: /assets/chrome_fizwh1hteo.jpg
 ---
 <https://www.erepublik.com/>
 
-M﻿y work on this project is pretty extensive. Erepublik is a pretty old game, 15 years to be more precise, and as I've mentioned in the "About me" page, I've been working on it for close to 4 years as the sole front-end web developer. 
+My involvement in this project was quite extensive, given that Erepublik is a relatively old game that has been around for 15 years. As detailed in my "About me" page, I have been the sole front-end web developer for almost 4 years. During this time, I have refactored numerous implementations of various elements throughout the website and cleaned up a considerable portion of the codebase. Angular is the main framework used, along with a significant amount of Jquery. The reason for Jquery's heavy use is due to the website's age.
 
-I have refactored a lot of implementations of various elements throughout the website and cleaned up a ton of the codebase. The main framework used is Angular with a lot of Jquery. The age of the website is the explanation of why Jquery is still heavily used.
+While I cannot divulge many details about the backend and deployment aspects, I can confidently say that I was involved in creating or modifying most of the visuals that are present on the website today, particularly those added in the past 4 years.
 
-I﻿ cannot go into much detail about the nitty gritty aspects that are backend and deployment related, but I can say for certain that I was involved in creating or modifying most of the visuals that are present now on the website, especially the ones that were added in the past 4 years.
-
-I﻿ invite you to create an account and play a bit to get an idea of the depth of this project.
+I would like to invite you to create an account and play the game to get a better understanding of the project's depth.
