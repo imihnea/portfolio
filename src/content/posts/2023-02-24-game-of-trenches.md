@@ -8,4 +8,4 @@ featuredImage: /assets/chrome_oqbodajveh.jpg
 ---
 <https://www.gameoftrenches.com/>
 
-T﻿his website was created using Svelte as the main framework. Implementation of it consisted of converting a Photoshop PSD file to an actual webpage. The specs of the project were to create a website that follows the art design provided. The website is also as mobile friendly as possible, as this wasn't a design with a mobile first approach in mind.
+The website was developed using Svelte as the primary framework, with the implementation process involving the conversion of a Photoshop PSD file into a functional webpage. The project specifications called for the creation of a website that adhered to the provided art design. Despite the design not being intended for a mobile-first approach, the website was optimized to be as mobile-friendly as possible.
