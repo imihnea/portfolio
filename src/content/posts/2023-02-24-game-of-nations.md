@@ -8,11 +8,11 @@ featuredImage: /assets/chrome_d90pzqdnet.jpg
 ---
 <https://gameofnations.net/>
 
-T﻿he scope of this project was porting a mobile game shop to a web based one. Basically, the mobile application contained all the information and designs required, my job was to implement them as a website, for the launch of the Ethereals event. T﻿he main framework used is Svelte.
+For this project, I was tasked with porting a mobile game shop to a web-based platform. Essentially, the mobile application contained all the necessary information and designs that needed to be implemented as a website. The primary framework used in this project was Svelte, and the website had to be launched in time for the Ethereals event.
 
-T﻿he Ethereals also came along with a few webshop sections and a whitepaper describing their purpose and other info. For these pages I did not have a mobile implementation, but a few Photoshop PSD files.
+In addition to the game shop, the Ethereals event required a few webshop sections and a whitepaper that described the purpose and other relevant information. While I did not have a mobile implementation for these pages, I was provided with a few Photoshop PSD files to work with.
 
-I﻿ invite you to create an account and play a bit, I personally really enjoy this game.
+I would like to invite you to create an account and play the game. Personally, I find it very enjoyable, and I think you will too.
 
 ![GoN Homepage](/assets/chrome_ystp4lullf.png "GoN Homepage")
 
