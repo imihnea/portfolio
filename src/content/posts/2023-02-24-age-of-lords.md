@@ -8,4 +8,4 @@ featuredImage: /assets/chrome_6nunt1su1h.jpg
 ---
 <https://www.ageoflords.com/>
 
-T﻿his website was created using Svelte as the main framework. Implementation of it consisted of converting a Photoshop PSD file to an actual webpage. The specs of the project were to create a website that follows the art design provided. The website is also as mobile friendly as possible, as this wasn't a design with a mobile first approach in mind.
+The primary framework used for creating this website was Svelte. To implement the website, a Photoshop PSD file was transformed into a functional webpage. The project's specifications required the website to adhere to the provided art design. Although the design did not prioritize a mobile-first approach, efforts were made to ensure that the website was mobile-friendly to the greatest extent possible.
