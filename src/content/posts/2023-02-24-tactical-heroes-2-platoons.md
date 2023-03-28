@@ -8,4 +8,4 @@ featuredImage: /assets/chrome_9k3usv1jgc.jpg
 ---
 <http://www.tacticalheroes.com/>
 
-T﻿his website was created using Svelte as the main framework. Implementation of it consisted of converting a Photoshop PSD file to an actual webpage. The specs of the project were to create a website that follows the art design provided. The website is also as mobile friendly as possible, as this wasn't a design with a mobile first approach in mind.
+The website was developed using Svelte as the primary framework. The implementation process involved converting a Photoshop PSD file into a fully functional webpage. The project specifications required the creation of a website that adhered to the provided art design. Additionally, the website was optimized to be as mobile-friendly as possible, despite the design not being intended for mobile-first approach.
