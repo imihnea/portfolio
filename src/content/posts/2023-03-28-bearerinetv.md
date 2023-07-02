@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: BearerineTV
-slug: bearerinetv
+slug: /projects/bearerinetv
 date: 2023-03-28 20:05
 description: I had the opportunity to work on an exciting web project recently,
   creating a blog website using Ghost CMS. The website can be accessed through
