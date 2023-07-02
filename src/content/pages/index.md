@@ -8,4 +8,4 @@ cta:
   ctaText: Get in touch
   ctaLink: /contact
 ---
-Hey! I'm a Front-End Web developer with 4 years of experience under the belt, eager to help you with your project needs.
+Hey! I'm a Front-End Web developer with 5 years of experience under the belt, eager to help you with your project needs.
