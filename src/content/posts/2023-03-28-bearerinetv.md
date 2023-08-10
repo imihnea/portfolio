@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: BearerineTV
-slug: /projects/bearerinetv
+title: Bearerine
+slug: /projects/bearerine
 date: 2023-03-28 20:05
 description: I had the opportunity to work on an exciting web project recently,
   creating a blog website using Ghost CMS. The website can be accessed through
@@ -13,7 +13,7 @@ description: I had the opportunity to work on an exciting web project recently,
   uploading the project to the Ghost platform.
 featuredImage: /assets/chrome_hg4yayznue.png
 ---
-[https://bearerinetv.com](https://bearerinetv.com/)
+[https://bearerine.com](https://bearerinetv.com/)
 
 I had the opportunity to work on an exciting web project recently, creating a blog website using Ghost CMS. The website can be accessed through the link above. The client requested a theme that would showcase their content in the best possible way. I took on the task of enhancing and adapting a pre-existing theme to meet the client's needs. The project didn't require any particular framework, but the theme used Handlebars as a templating system with styles written in SCSS and Javascript bundled up in a few files before uploading the project to the Ghost platform.
 
