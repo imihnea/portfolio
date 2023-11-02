@@ -21,4 +21,4 @@ Thank you for joining me on this exciting journey.
 
 ![Orcs in the cemetery](/assets/cemetery.png "Orcs in the cemetery")
 
-*Last updated: 24/02/2023*
+*Last updated: 02/11/2023*
