@@ -15,7 +15,7 @@ const Footer = () => (
         <span className="icon">
           <RiCopyrightFill />
         </span>{" "}
-        ExiledVegan {new Date().getFullYear()}
+        Mihnea Ionita {new Date().getFullYear()}
       </p>
     </div>
   </footer>

@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: ExiledVegan
+title: Mihnea Ionita
 tagline: Front-End Developer
 featuredImage: /assets/dragon_room.png
 cta:
