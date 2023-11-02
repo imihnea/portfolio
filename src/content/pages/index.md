@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Mihnea Ionita
 tagline: Front-End Developer
-featuredImage: /assets/dragon_room.png
+featuredImage: /assets/img_0001.jpg
 cta:
   ctaText: Get in touch
   ctaLink: /contact
