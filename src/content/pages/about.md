@@ -5,24 +5,20 @@ title: About Me
 ---
 **Welcome! Nice to have you here!**
 
-At the time of writing this I am employed and working on multiple projects at the same time. I've been working on the front-end of a browser game for close to 4 years. My work consists of mostly writing JavaScript with an Angular framework, besides the usual Html/CSS which get mixed in with the templating and Sass styling for faster development.
+As of this moment, I am immersed in the world of web development, working as a contractor on multiple exciting projects simultaneously. For the past four years, I've been passionately crafting the front-end of a captivating browser game. My work primarily revolves around JavaScript, skillfully wielding frameworks like Angular and Svelte, all while seamlessly integrating HTML and CSS to create engaging, user-friendly interfaces.
 
-Before this I had experience with starting a traditional Web2 startup and working in the crypto industry on the same front. My first internship was actually at one of the biggest crypto trading companies in my country. 
+My journey in the digital realm didn't start here. Before embarking on this browser game odyssey, I dabbled in the traditional Web2 startup scene and ventured into the cryptocurrency industry. In fact, my initial foray into the professional world was as an intern at one of the prominent crypto trading companies in my country, Bitcoin Romania.
 
-I﻿n the past months I've been working on a brand new project using Svelte as the front-end framework, which was a nice surprise as I always enjoy learning new things. The goal of this project is to start implementing Web3 elements into Web2 games, which is really exciting! Now that the event has launched, I've added it to my portfolio section.
+In the last year, I embarked on a thrilling endeavor, constructing a cutting-edge project that employed Svelte as the front-end framework. This venture was an exhilarating fusion of Web3 elements into conventional Web2 gaming, and I'm delighted to share it with you. The resulting creation, Game of Nations, has now found its place in my portfolio.
 
-B﻿esides this project and the browser game I've also taken up a few smaller projects which consisted of simple static websites with mobile friendly layouts for a few of the games that were shut down at the game studio I am working for. It was refreshing working on some static websites too as I believe those are one of the bread and butter of any front-end developer. Case in point: this portfolio website as well.
+My journey didn't stop there. Following the success of Game of Nations, I set my sights on War and Peace, a game sharing a similar concept but imbued with a unique stylistic approach. Simultaneously, I continue to be deeply involved with eRepublik, one of my primary projects.
 
-A﻿ll of the projects I've spoken about are listed in my portfolio section, to which I gladly invite you to have a look at!
+Beyond these immersive experiences, I've also embraced smaller projects—constructing simple, static websites with mobile-friendly layouts. These were designed to immortalize and enhance the gaming experience for titles that had met their closure at the game studio where I contribute. Notably, projects like Age of Lords, Game of Trenches, and Tactical Heroes 2 Platoons were among these endeavors. I find working on static websites to be a foundational skill that every front-end developer should master, as exemplified by this very portfolio website.
+
+All the projects I've described are meticulously cataloged in my portfolio section, which I wholeheartedly invite you to explore. This is where my journey has led me today, and I am excited to embark on new collaborations with clients, tackle fresh projects, and embrace emerging technologies.
+
+Thank you for joining me on this exciting journey.
 
 ![Orcs in the cemetery](/assets/cemetery.png "Orcs in the cemetery")
-
-One of my main interests and what made me start learning how to code was crypto all along. I joined the NFT space in December 2021. It feels like it's been years since then, when it has barely even been a single year. It's been quite a ride, for sure, but not so much on the builder side, mostly slinging Jpegs here and there for ETH, WETH and MAGIC. 
-
-I've had the pleasure of meeting lots of cool people in the space in the past year. Learned a ton about what NFT traders and gamers are looking for. Coming from a gaming background myself, I've always leaned towards gaming projects and ecosystems such as **EtherOrcs** and the **TreasureDAO** ecosystem with their token MAGIC. EtherOrcs is my current favorite project in the NFT space due to their innovation and aesthetics. I've always been a fan of pixel games and World of Warcraft I still play from time to time, so it was definitely the right fit.
-
-Unfortunately I've realized that I'm not cut for trading. Even though I've managed to pull some sweet flips, the trader life is not for me. Watching charts all day, trying hard for whitelists, scanning top active collections, checking alpha groups non-stop to gauge the overall sentiment of what's currently trending, most of it is *really* exhausting.
-
-This is where I am today. Excited to take up on new clients, new projects and new technologies!
 
 *Last updated: 24/02/2023*
