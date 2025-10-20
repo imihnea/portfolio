@@ -8,8 +8,25 @@ featuredImage: /assets/chrome_fizwh1hteo.jpg
 ---
 <https://www.erepublik.com/>
 
-My involvement in this project was quite extensive, given that Erepublik is a relatively old game that has been around for 15 years. As detailed in my "About me" page, I have been the sole front-end web developer for almost 4 years. During this time, I have refactored numerous implementations of various elements throughout the website and cleaned up a considerable portion of the codebase. Angular is the main framework used, along with a significant amount of Jquery. The reason for Jquery's heavy use is due to the website's age.
+As a long-term contractor with eRepublik Labs, I serve as the lead front-end developer for their flagship titles erepublik.com and warandpeace.com. Over four years, I have led comprehensive modernization initiatives for these established browser-based games, managing complex technical migrations while maintaining service for a global user base.
 
-While I cannot divulge many details about the backend and deployment aspects, I can confidently say that I was involved in creating or modifying most of the visuals that are present on the website today, particularly those added in the past 4 years.
+**Technical Modernization**
 
-I would like to invite you to create an account and play the game to get a better understanding of the project's depth.
+- **Framework Migration**: Led complete migration from AngularJS to Vue.js, modernizing the entire front-end architecture
+- **Build System Overhaul**: Replaced legacy Grunt and NodeSass compilers with modern build tooling
+- **Component Architecture**: Developed reusable component libraries for consistent UI patterns
+- **Legacy Integration**: Maintained jQuery compatibility for critical legacy systems during transition
+
+**Key Responsibilities**
+
+- Complete front-end ownership across multiple game titles
+- Systematic refactoring and codebase modernization
+- New feature development and UI revamps
+- Performance optimization and maintainability improvements
+- Cross-functional collaboration in Agile development environment
+
+**Additional Projects**
+
+Within eRepublik Labs, I also contributed to Game of Nations, developing responsive web interfaces that integrate Web3 functionality with traditional gaming mechanics, enhancing overall gameplay and user engagement.
+
+This ongoing engagement demonstrates expertise in large-scale technical migrations, legacy system modernization, and sustainable long-term development practices for production applications serving global audiences.

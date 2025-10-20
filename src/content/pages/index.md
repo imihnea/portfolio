@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Mihnea Ionita
-tagline: Front-End Developer
+tagline: Full-Stack Developer
 featuredImage: /assets/hz3a5876-copy.jpg
 cta:
   ctaText: Get in touch
   ctaLink: /contact
 ---
-Hey! I'm a Front-End Web developer with 5 years of experience under the belt, eager to help you with your project needs.
+Full-stack developer with 7 years of professional experience delivering scalable web applications, from front-end interfaces to backend infrastructure. Specializing in modern JavaScript frameworks, responsive design, and complete end-to-end project execution for clients across gaming, content management, and Web3 sectors.

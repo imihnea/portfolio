@@ -8,4 +8,13 @@ featuredImage: /assets/chrome_oqbodajveh.jpg
 ---
 <https://www.gameoftrenches.com/>
 
-The website was developed using Svelte as the primary framework, with the implementation process involving the conversion of a Photoshop PSD file into a functional webpage. The project specifications called for the creation of a website that adhered to the provided art design. Despite the design not being intended for a mobile-first approach, the website was optimized to be as mobile-friendly as possible.
+Delivered a responsive marketing website for Game of Trenches using Svelte framework. The project required high-fidelity implementation from design specifications, ensuring accurate translation of visual assets to production code with enhanced mobile capabilities.
+
+Technical execution:
+
+- Framework: Svelte for streamlined development and optimal runtime performance
+- Design implementation: Precise PSD-to-code conversion maintaining design integrity
+- Responsive optimization: Enhanced mobile experience beyond original desktop-focused design
+- Deployment: Production-ready static site with cross-browser compatibility
+
+This project showcases efficiency in modern JavaScript framework utilization, design system implementation, and responsive web development best practices.

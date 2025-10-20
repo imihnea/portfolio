@@ -8,11 +8,29 @@ featuredImage: /assets/chrome_d90pzqdnet.jpg
 ---
 <https://gameofnations.net/>
 
-For this project, I was tasked with porting a mobile game shop to a web-based platform. Essentially, the mobile application contained all the necessary information and designs that needed to be implemented as a website. The primary framework used in this project was Svelte, and the website had to be launched in time for the Ethereals event.
+Led the development of a comprehensive web-based marketplace for Game of Nations, translating a mobile gaming platform to web while integrating Web3 functionality for the Ethereals NFT event. This project required rapid development under tight deadlines while maintaining high-quality standards across multiple deliverables.
 
-In addition to the game shop, the Ethereals event required a few webshop sections and a whitepaper that described the purpose and other relevant information. While I did not have a mobile implementation for these pages, I was provided with a few Photoshop PSD files to work with.
+Project overview:
 
-I would like to invite you to create an account and play the game. Personally, I find it very enjoyable, and I think you will too.
+**Core Platform Development**
+- Mobile-to-web migration of existing game shop interface
+- Svelte framework implementation for optimal performance
+- Responsive architecture supporting both mobile and desktop experiences
+- Integration with existing game backend systems
+
+**Ethereals Event Implementation**
+- Multi-section webshop development for NFT marketplace
+- Custom landing pages and information architecture
+- Whitepaper presentation and documentation portal
+- Event-driven features with time-sensitive launch requirements
+
+**Technical Highlights**
+- Rapid development cycle meeting critical launch deadlines
+- PSD-to-production pipeline for new event sections
+- Web3 integration for blockchain-based gaming assets
+- Cross-platform consistency between mobile and web experiences
+
+This project demonstrates capability in deadline-driven development, cross-platform implementation, and emerging technology integration within the gaming and Web3 space.
 
 ![GoN Homepage](/assets/chrome_ystp4lullf.png "GoN Homepage")
 

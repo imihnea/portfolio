@@ -3,21 +3,54 @@ template: about-page
 slug: /about
 title: About Me
 ---
-**Welcome! Nice to have you here!**
+**Professional Full-Stack Developer | 7 Years Experience**
 
-As of this moment, I am immersed in the world of web development, working as a contractor on multiple exciting projects simultaneously. For the past four years, I've been passionately crafting the front-end of a captivating browser game. My work primarily revolves around JavaScript, skillfully wielding frameworks like Angular and Svelte, all while seamlessly integrating HTML and CSS to create engaging, user-friendly interfaces.
+I am a full-stack web developer specializing in modern JavaScript frameworks, scalable web applications, and end-to-end project delivery. With 7 years of professional experience, I have successfully delivered projects spanning front-end development, backend integration, infrastructure management, and payment systems across multiple industries.
 
-My journey in the digital realm didn't start here. Before embarking on this browser game odyssey, I dabbled in the traditional Web2 startup scene and ventured into the cryptocurrency industry. In fact, my initial foray into the professional world was as an intern at one of the prominent crypto trading companies in my country, Bitcoin Romania.
+**Core Expertise**
 
-In the last year, I embarked on a thrilling endeavor, constructing a cutting-edge project that employed Svelte as the front-end framework. This venture was an exhilarating fusion of Web3 elements into conventional Web2 gaming, and I'm delighted to share it with you. The resulting creation, Game of Nations, has now found its place in my portfolio.
+- **Front-End Development**: Vue.js, Angular, AngularJS, Svelte, React - building responsive, performant user interfaces
+- **Full-Stack Capabilities**: Front-end to backend integration, API development, database design
+- **DevOps & Infrastructure**: Hosting configuration, deployment pipelines, security implementation
+- **Payment Integration**: Stripe and other payment gateway implementations
+- **Web3 & Blockchain**: NFT marketplace development, cryptocurrency platforms
 
-My journey didn't stop there. Following the success of Game of Nations, I set my sights on War and Peace, a game sharing a similar concept but imbued with a unique stylistic approach. Simultaneously, I continue to be deeply involved with eRepublik, one of my primary projects.
+**Professional Background**
 
-Beyond these immersive experiences, I've also embraced smaller projects—constructing simple, static websites with mobile-friendly layouts. These were designed to immortalize and enhance the gaming experience for titles that had met their closure at the game studio where I contribute. Notably, projects like Age of Lords, Game of Trenches, and Tactical Heroes 2 Platoons were among these endeavors. I find working on static websites to be a foundational skill that every front-end developer should master, as exemplified by this very portfolio website.
+My professional journey began with a focused three-month web development bootcamp, building upon my computer science foundation from university and high school. This led to early experience with Agile methodologies, scrum workflows, and international team collaboration with colleagues based in Canada.
 
-All the projects I've described are meticulously cataloged in my portfolio section, which I wholeheartedly invite you to explore. This is where my journey has led me today, and I am excited to embark on new collaborations with clients, tackle fresh projects, and embrace emerging technologies.
+I co-founded Deal Your Crypto, a cryptocurrency platform where I led front-end development, contributed to backend implementation, and managed business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
 
-Thank you for joining me on this exciting journey.
+Currently, I work as a long-term contractor with eRepublik Labs on a B2B basis, contributing to their flagship titles erepublik.com and warandpeace.com. Over the past four years, I have led comprehensive modernization initiatives including:
+
+- Complete migration from AngularJS to Vue.js
+- Build system modernization: replaced legacy Grunt and NodeSass with modern tooling
+- UI revamps and new feature implementations
+- Development of reusable component libraries
+- Codebase refactoring for improved maintainability
+
+**Recent Projects**
+
+My portfolio demonstrates versatility across multiple domains:
+
+- **Game of Nations**: Web3 integration bringing blockchain technology to traditional gaming, featuring NFT marketplace development and mobile-to-web platform migration
+- **Bearerine**: Complete Ghost CMS implementation including theme development, hosting infrastructure, Stripe payment integration, and ongoing technical support
+- **Multiple Gaming Websites**: Svelte-based marketing sites for Age of Lords, Game of Trenches, and Tactical Heroes 2, showcasing rapid development and pixel-perfect design implementation
+
+**Technical Approach**
+
+I specialize in translating complex requirements into production-ready solutions, whether modernizing legacy systems or building greenfield projects. My experience spans individual contributor roles to technical leadership positions, always maintaining focus on code quality, user experience, and business objectives.
+
+**Current Focus**
+
+I am available for contract engagements and new client projects, particularly those involving:
+- Modern web application development (SPA, SSR, static sites)
+- Legacy system modernization and refactoring
+- Full-stack project delivery including infrastructure
+- Web3 and emerging technology integration
+- Technical consulting and architecture planning
+
+All projects referenced are available in the portfolio section with detailed case studies and visual examples.
 
 ![Orcs in the cemetery](/assets/cemetery.png "Orcs in the cemetery")
 

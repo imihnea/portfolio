@@ -8,4 +8,13 @@ featuredImage: /assets/chrome_6nunt1su1h.jpg
 ---
 <https://www.ageoflords.com/>
 
-The primary framework used for creating this website was Svelte. To implement the website, a Photoshop PSD file was transformed into a functional webpage. The project's specifications required the website to adhere to the provided art design. Although the design did not prioritize a mobile-first approach, efforts were made to ensure that the website was mobile-friendly to the greatest extent possible.
+Developed a responsive marketing website for Age of Lords using Svelte as the core framework. The project required precise implementation from design specifications provided in Photoshop PSD format, ensuring pixel-perfect translation to production code.
+
+Technical approach:
+
+- Framework: Svelte for optimal performance and minimal bundle size
+- Design implementation: High-fidelity conversion from PSD to responsive web components
+- Responsive optimization: Enhanced mobile experience despite desktop-first design constraints
+- Deliverables: Production-ready static website with cross-device compatibility
+
+This project showcases expertise in rapid development with modern JavaScript frameworks while maintaining strict adherence to design specifications and delivering optimized user experiences across all device types.
