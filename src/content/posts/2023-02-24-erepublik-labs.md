@@ -2,7 +2,7 @@
 template: blog-post
 title: eRepublik Labs
 slug: /projects/erepublik-labs
-date: 2023-02-24 21:36
+date: 2023-12-29 00:00
 description: My experience developing the eRepublik Labs company website.
 featuredImage: /assets/firefox_erepubliklabs.png
 ---

@@ -2,7 +2,7 @@
 template: blog-post
 title: Bearerine
 slug: /projects/bearerine
-date: 2023-03-28 20:05
+date: 2023-12-28 00:00
 description: I had the opportunity to work on an exciting web project recently,
   creating a blog website using Ghost CMS. The website can be accessed through
   the link above. The client requested a theme that would showcase their content

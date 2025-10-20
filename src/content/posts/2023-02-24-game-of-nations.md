@@ -2,7 +2,7 @@
 template: blog-post
 title: Game of Nations
 slug: /projects/game-of-nations
-date: 2023-02-24 21:42
+date: 2023-12-30 00:00
 description: My experience developing Game of Nations.
 featuredImage: /assets/chrome_d90pzqdnet.jpg
 ---

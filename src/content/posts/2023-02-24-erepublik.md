@@ -2,7 +2,7 @@
 template: blog-post
 title: eRepublik
 slug: /projects/eRepublik
-date: 2023-02-24 21:42
+date: 2023-12-31 00:00
 description: My experience developing eRepublik.
 featuredImage: /assets/chrome_fizwh1hteo.jpg
 ---

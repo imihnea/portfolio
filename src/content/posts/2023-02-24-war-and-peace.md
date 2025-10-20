@@ -2,7 +2,7 @@
 template: blog-post
 title: War and Peace
 slug: /projects/war-and-peace
-date: 2023-02-24 21:43
+date: 2024-01-01 00:00
 description: My experience developing War and Peace, eRepublik Labs' flagship product.
 featuredImage: /assets/chrome_Hde2Gels8M.jpg
 ---
