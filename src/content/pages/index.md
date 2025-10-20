@@ -8,4 +8,4 @@ cta:
   ctaText: Get in touch
   ctaLink: /contact
 ---
-Full-stack developer with 7 years of professional experience delivering scalable web applications, from front-end interfaces to backend infrastructure. Specializing in modern JavaScript frameworks, responsive design, and complete end-to-end project execution for clients across gaming, content management, and Web3 sectors.
+Full-stack developer with 7 years of experience specializing in modern JavaScript frameworks and scalable web applications. Delivering end-to-end solutions for gaming, e-commerce, and content management platforms.

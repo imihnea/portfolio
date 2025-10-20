@@ -27,6 +27,6 @@ As a long-term contractor with eRepublik Labs, I serve as the lead front-end dev
 
 **Additional Projects**
 
-Within eRepublik Labs, I also contributed to Game of Nations, developing responsive web interfaces that integrate Web3 functionality with traditional gaming mechanics, enhancing overall gameplay and user engagement.
+Within eRepublik Labs, I also contributed to Game of Nations, developing responsive web interfaces with integrated marketplace features and event-driven commerce systems, enhancing overall gameplay and user engagement.
 
 This ongoing engagement demonstrates expertise in large-scale technical migrations, legacy system modernization, and sustainable long-term development practices for production applications serving global audiences.

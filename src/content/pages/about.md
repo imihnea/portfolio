@@ -13,13 +13,13 @@ I am a full-stack web developer specializing in modern JavaScript frameworks, sc
 - **Full-Stack Capabilities**: Front-end to backend integration, API development, database design
 - **DevOps & Infrastructure**: Hosting configuration, deployment pipelines, security implementation
 - **Payment Integration**: Stripe and other payment gateway implementations
-- **Web3 & Blockchain**: NFT marketplace development, cryptocurrency platforms
+- **Gaming Industry**: Interactive webshops, event-driven features, revenue-critical systems
 
 **Professional Background**
 
 My professional journey began with a focused three-month web development bootcamp, building upon my computer science foundation from university and high school. This led to early experience with Agile methodologies, scrum workflows, and international team collaboration with colleagues based in Canada.
 
-I co-founded Deal Your Crypto, a cryptocurrency platform where I led front-end development, contributed to backend implementation, and managed business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
+I co-founded Deal Your Crypto, a fintech platform where I led front-end development, contributed to backend implementation, and managed business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
 
 Currently, I work as a long-term contractor with eRepublik Labs on a B2B basis, contributing to their flagship titles erepublik.com and warandpeace.com. Over the past four years, I have led comprehensive modernization initiatives including:
 
@@ -33,7 +33,7 @@ Currently, I work as a long-term contractor with eRepublik Labs on a B2B basis, 
 
 My portfolio demonstrates versatility across multiple domains:
 
-- **Game of Nations**: Web3 integration bringing blockchain technology to traditional gaming, featuring NFT marketplace development and mobile-to-web platform migration
+- **Game of Nations**: Mobile-to-web platform migration with integrated marketplace features and event-driven commerce systems
 - **Bearerine**: Complete Ghost CMS implementation including theme development, hosting infrastructure, Stripe payment integration, and ongoing technical support
 - **Multiple Gaming Websites**: Svelte-based marketing sites for Age of Lords, Game of Trenches, and Tactical Heroes 2, showcasing rapid development and pixel-perfect design implementation
 
@@ -47,7 +47,7 @@ I am available for contract engagements and new client projects, particularly th
 - Modern web application development (SPA, SSR, static sites)
 - Legacy system modernization and refactoring
 - Full-stack project delivery including infrastructure
-- Web3 and emerging technology integration
+- E-commerce and payment system integration
 - Technical consulting and architecture planning
 
 All projects referenced are available in the portfolio section with detailed case studies and visual examples.

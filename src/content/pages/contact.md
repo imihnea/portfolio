@@ -12,10 +12,9 @@ I am currently available for new contract engagements and project collaborations
 - Full-stack web application development
 - Front-end modernization and UI/UX implementation
 - Legacy system refactoring and technical migrations
-- Web3 and blockchain integration
+- E-commerce and payment gateway integration
 - CMS implementation and customization
 - Infrastructure setup and DevOps consulting
-- Payment gateway integration
 - Ongoing maintenance and technical support
 
 **Get in Touch**

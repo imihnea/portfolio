@@ -8,7 +8,7 @@ featuredImage: /assets/chrome_d90pzqdnet.jpg
 ---
 <https://gameofnations.net/>
 
-Led the development of a comprehensive web-based marketplace for Game of Nations, translating a mobile gaming platform to web while integrating Web3 functionality for the Ethereals NFT event. This project required rapid development under tight deadlines while maintaining high-quality standards across multiple deliverables.
+Led the development of a comprehensive web-based marketplace for Game of Nations, translating a mobile gaming platform to web while implementing special event features for the Ethereals campaign. This project required rapid development under tight deadlines while maintaining high-quality standards across multiple deliverables.
 
 Project overview:
 
@@ -19,18 +19,18 @@ Project overview:
 - Integration with existing game backend systems
 
 **Ethereals Event Implementation**
-- Multi-section webshop development for NFT marketplace
+- Multi-section webshop development for special in-game items marketplace
 - Custom landing pages and information architecture
-- Whitepaper presentation and documentation portal
+- Documentation portal with detailed event information
 - Event-driven features with time-sensitive launch requirements
 
 **Technical Highlights**
 - Rapid development cycle meeting critical launch deadlines
 - PSD-to-production pipeline for new event sections
-- Web3 integration for blockchain-based gaming assets
+- Dynamic marketplace features for limited-time gaming items
 - Cross-platform consistency between mobile and web experiences
 
-This project demonstrates capability in deadline-driven development, cross-platform implementation, and emerging technology integration within the gaming and Web3 space.
+This project demonstrates capability in deadline-driven development, cross-platform implementation, and complex feature integration within the gaming industry.
 
 ![GoN Homepage](/assets/chrome_ystp4lullf.png "GoN Homepage")
 
