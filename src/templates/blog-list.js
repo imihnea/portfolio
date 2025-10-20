@@ -64,7 +64,7 @@ const Pagination = props => (
       {Array.from({ length: props.numPages }, (_, i) => (
         <li key={`pagination-number${i + 1}`}>
           <Link
-            to={`${props.blogSlug}${i === 0 ? "" : i + 1}`}
+            to={`${props.blogSlug}${i === 0 ? "" : "/" + (i + 1)}`}
             className={props.currentPage === i + 1 ? "is-active num" : "num"}
           >
             {i + 1}
@@ -92,8 +92,8 @@ class BlogIndex extends React.Component {
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage =
-      currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
-    const nextPage = blogSlug + (currentPage + 1).toString()
+      currentPage - 1 === 1 ? blogSlug : blogSlug + "/" + (currentPage - 1).toString()
+    const nextPage = blogSlug + "/" + (currentPage + 1).toString()
 
     const posts = data.allMarkdownRemark.edges
       .filter(edge => !!edge.node.frontmatter.date)
