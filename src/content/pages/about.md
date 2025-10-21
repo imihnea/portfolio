@@ -52,6 +52,4 @@ I am available for contract engagements and new client projects, particularly th
 
 All projects referenced are available in the portfolio section with detailed case studies and visual examples.
 
-![Orcs in the cemetery](/assets/cemetery.png "Orcs in the cemetery")
-
-*Last updated: 02/11/2023*
+*Last updated: 21 October 2025*
