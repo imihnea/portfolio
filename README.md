@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Personal portfolio website for Mihnea Ionita - Full-Stack Developer with 7 years of professional experience.
+Personal portfolio website for Mihnea Ionita - Frontend Developer with 7 years of professional experience.
 
 Built with [Gatsby v4][gatsby] and [Netlify CMS][netlifycms].
 

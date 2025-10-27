@@ -9,7 +9,7 @@ I am currently available for new contract engagements and project collaborations
 
 **Services Available**
 
-- Full-stack web application development
+- Frontend web application development with backend integration
 - Front-end modernization and UI/UX implementation
 - Legacy system refactoring and technical migrations
 - E-commerce and payment gateway integration

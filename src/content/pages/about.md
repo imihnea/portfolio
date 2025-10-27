@@ -3,14 +3,14 @@ template: about-page
 slug: /about
 title: About Me
 ---
-**Professional Full-Stack Developer | 7 Years Experience**
+**Professional Frontend Developer | 7 Years Experience**
 
-I am a full-stack web developer specializing in modern JavaScript frameworks, scalable web applications, and end-to-end project delivery. With 7 years of professional experience, I have successfully delivered projects spanning front-end development, backend integration, infrastructure management, and payment systems across multiple industries.
+I am a frontend web developer specializing in modern JavaScript frameworks, scalable web applications, and end-to-end project delivery. With 7 years of professional experience, I have successfully delivered projects focusing on front-end development with strong backend integration, infrastructure management, and payment systems capabilities across multiple industries.
 
 **Core Expertise**
 
 - **Front-End Development**: Vue.js, Angular, AngularJS, Svelte, React - building responsive, performant user interfaces
-- **Full-Stack Capabilities**: Front-end to backend integration, API development, database design
+- **Backend Integration**: API consumption and development, database design, server-side integration
 - **DevOps & Infrastructure**: Hosting configuration, deployment pipelines, security implementation
 - **Payment Integration**: Stripe and other payment gateway implementations
 - **Gaming Industry**: Interactive webshops, event-driven features, revenue-critical systems
@@ -19,7 +19,7 @@ I am a full-stack web developer specializing in modern JavaScript frameworks, sc
 
 My professional journey began with a focused three-month web development bootcamp, building upon my computer science foundation from university and high school. This led to early experience with Agile methodologies, scrum workflows, and international team collaboration with colleagues based in Canada.
 
-I co-founded Deal Your Crypto, a fintech platform where I led front-end development, contributed to backend implementation, and managed business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
+I co-founded Deal Your Crypto, a fintech platform where I led front-end development while contributing to backend implementation and managing business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
 
 Currently, I work as a long-term contractor with eRepublik Labs on a B2B basis, contributing to their flagship titles erepublik.com and warandpeace.com. Over the past four years, I have led comprehensive modernization initiatives including:
 
@@ -44,11 +44,11 @@ I specialize in translating complex requirements into production-ready solutions
 **Current Focus**
 
 I am available for contract engagements and new client projects, particularly those involving:
-- Modern web application development (SPA, SSR, static sites)
-- Legacy system modernization and refactoring
-- Full-stack project delivery including infrastructure
-- E-commerce and payment system integration
-- Technical consulting and architecture planning
+- Modern frontend application development (SPA, SSR, static sites)
+- Legacy frontend system modernization and refactoring
+- End-to-end project delivery with backend and infrastructure integration
+- E-commerce and payment system frontend implementation
+- Technical consulting and frontend architecture planning
 
 All projects referenced are available in the portfolio section with detailed case studies and visual examples.
 
