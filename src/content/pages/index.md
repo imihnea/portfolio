@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Mihnea Ionita
-tagline: Frontend Developer
+tagline: Software Engineer
 featuredImage: /assets/hz3a5876-copy.jpg
 cta:
-  ctaText: Get in touch
-  ctaLink: /contact
+  ctaText: View selected work
+  ctaLink: /projects
 ---
-Frontend developer with 7 years of experience specializing in modern JavaScript frameworks and scalable web applications. Skilled in building responsive user interfaces with backend integration capabilities for gaming, e-commerce, and content management platforms.
+I build and modernize production software, from established web platforms and internal systems to mobile products. My work spans product engineering, frontend architecture, backend integrations, data, infrastructure, and delivery.

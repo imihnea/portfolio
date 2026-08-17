@@ -3,53 +3,24 @@ template: about-page
 slug: /about
 title: About Me
 ---
-**Professional Frontend Developer | 7 Years Experience**
+I am a software engineer based in Romania, with nearly eight years of professional experience. I started in frontend development and gradually moved into broader product work: architecture, backend integrations, data, infrastructure, payments, internal tooling, and end-to-end delivery.
 
-I am a frontend web developer specializing in modern JavaScript frameworks, scalable web applications, and end-to-end project delivery. With 7 years of professional experience, I have successfully delivered projects focusing on front-end development with strong backend integration, infrastructure management, and payment systems capabilities across multiple industries.
+## Current work
 
-**Core Expertise**
+Since 2019, I have worked with eRepublik Labs as a long-term B2B contractor. I contribute across established products including eRepublik and War and Peace, where the work ranges from customer-facing features and commerce flows to platform modernization and internal systems.
 
-- **Front-End Development**: Vue.js, Angular, AngularJS, Svelte, React - building responsive, performant user interfaces
-- **Backend Integration**: API consumption and development, database design, server-side integration
-- **DevOps & Infrastructure**: Hosting configuration, deployment pipelines, security implementation
-- **Payment Integration**: Stripe and other payment gateway implementations
-- **Gaming Industry**: Interactive webshops, event-driven features, revenue-critical systems
+That has included the incremental migration of an AngularJS and jQuery codebase to Vue, reusable component systems, route and build-tooling upgrades, payment and analytics integrations, event-driven storefronts, and an internal newsletter platform built with Amazon SES and BigQuery. I also work across Svelte applications, Unity-adjacent workflows, deployment, and production support when a project needs it.
 
-**Professional Background**
+## Independent products
 
-My professional journey began with a focused three-month web development bootcamp, building upon my computer science foundation from university and high school. This led to early experience with Agile methodologies, scrum workflows, and international team collaboration with colleagues based in Canada.
+Outside my long-term client work, I build and ship products through my own company. Recent projects include Dialogo, a full-stack online therapy platform; two cross-platform mobile games released under SoftGrove Games; and the publishing, payment, and hosting infrastructure behind Bearerine.
 
-I co-founded Deal Your Crypto, a fintech platform where I led front-end development while contributing to backend implementation and managing business operations. The venture secured European Union grant funding and gained media attention through local television coverage, providing invaluable experience in startup development and strategic decision-making.
+Working on my own products has made me comfortable with the less visible parts of software: deciding scope, integrating third-party services, publishing to app stores, monitoring production, and maintaining a product after launch.
 
-Currently, I work as a long-term contractor with eRepublik Labs on a B2B basis, contributing to their flagship titles erepublik.com and warandpeace.com. Over the past four years, I have led comprehensive modernization initiatives including:
+## How I work
 
-- Complete migration from AngularJS to Vue.js
-- Build system modernization: replaced legacy Grunt and NodeSass with modern tooling
-- UI revamps and new feature implementations
-- Development of reusable component libraries
-- Codebase refactoring for improved maintainability
+I am pragmatic about technology. I enjoy modern systems, but I am equally comfortable improving a mature codebase without disrupting the product around it. I prefer clear ownership, direct communication, and solutions that remain understandable after the first release.
 
-**Recent Projects**
+My main tools include TypeScript and JavaScript, React and Next.js, Vue, Angular, Svelte, Node.js, SQL, AWS, BigQuery, Supabase, Stripe, Docker, and Unity. I also use coding assistants and agent-based development tools where they make delivery faster, while keeping architecture and implementation decisions under human review.
 
-My portfolio demonstrates versatility across multiple domains:
-
-- **Game of Nations**: Mobile-to-web platform migration with integrated marketplace features and event-driven commerce systems
-- **Bearerine**: Complete Ghost CMS implementation including theme development, hosting infrastructure, Stripe payment integration, and ongoing technical support
-- **Multiple Gaming Websites**: Svelte-based marketing sites for Age of Lords, Game of Trenches, and Tactical Heroes 2, showcasing rapid development and pixel-perfect design implementation
-
-**Technical Approach**
-
-I specialize in translating complex requirements into production-ready solutions, whether modernizing legacy systems or building greenfield projects. My experience spans individual contributor roles to technical leadership positions, always maintaining focus on code quality, user experience, and business objectives.
-
-**Current Focus**
-
-I am available for contract engagements and new client projects, particularly those involving:
-- Modern frontend application development (SPA, SSR, static sites)
-- Legacy frontend system modernization and refactoring
-- End-to-end project delivery with backend and infrastructure integration
-- E-commerce and payment system frontend implementation
-- Technical consulting and frontend architecture planning
-
-All projects referenced are available in the portfolio section with detailed case studies and visual examples.
-
-*Last updated: 21 October 2025*
+I am available for selected contract work involving product development, legacy modernization, internal platforms, and technically involved web applications.

@@ -8,25 +8,20 @@ featuredImage: /assets/chrome_fizwh1hteo.jpg
 ---
 <https://www.erepublik.com/>
 
-As a long-term contractor with eRepublik Labs, I serve as the lead front-end developer for their flagship titles erepublik.com and warandpeace.com. Over four years, I have led comprehensive modernization initiatives for these established browser-based games, managing complex technical migrations while maintaining service for a global user base.
+I have worked on eRepublik as a long-term eRepublik Labs contractor since 2019. It is a mature browser game with years of product history, so most changes need to improve the platform without interrupting the systems around them.
 
-**Technical Modernization**
+**Platform modernization**
 
-- **Framework Migration**: Led complete migration from AngularJS to Vue.js, modernizing the entire front-end architecture
-- **Build System Overhaul**: Replaced legacy Grunt and NodeSass compilers with modern build tooling
-- **Component Architecture**: Developed reusable component libraries for consistent UI patterns
-- **Legacy Integration**: Maintained jQuery compatibility for critical legacy systems during transition
+- Incrementally migrated AngularJS and jQuery surfaces to Vue while keeping legacy flows operational
+- Replaced the Grunt and NodeSass build setup, reducing local build times from several minutes to seconds
+- Introduced reusable components and clearer patterns for new product work
+- Refactored long-lived areas of the interface and shipped new features across the game
 
-**Key Responsibilities**
+**Broader product work**
 
-- Complete front-end ownership across multiple game titles
-- Systematic refactoring and codebase modernization
-- New feature development and UI revamps
-- Performance optimization and maintainability improvements
-- Cross-functional collaboration in Agile development environment
+- Developed player-facing features, promotional events, and operational tooling
+- Worked with product, backend, and art across implementation and production support
+- Integrated analytics and external services where product flows required them
+- Built internal systems, including newsletter infrastructure using Amazon SES and BigQuery
 
-**Additional Projects**
-
-Within eRepublik Labs, I also contributed to Game of Nations, developing responsive web interfaces with integrated marketplace features and event-driven commerce systems, enhancing overall gameplay and user engagement.
-
-This ongoing engagement demonstrates expertise in large-scale technical migrations, legacy system modernization, and sustainable long-term development practices for production applications serving global audiences.
+The engagement has grown well beyond frontend implementation. I regularly move between product code, integrations, data, infrastructure, and internal tools depending on what the team needs.
