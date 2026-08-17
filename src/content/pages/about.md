@@ -24,3 +24,5 @@ I am pragmatic about technology. I enjoy modern systems, but I am equally comfor
 My main tools include TypeScript and JavaScript, React and Next.js, Vue, Angular, Svelte, Node.js, SQL, AWS, BigQuery, Supabase, Stripe, Docker, and Unity. I also use coding assistants and agent-based development tools where they make delivery faster, while keeping architecture and implementation decisions under human review.
 
 I am available for selected contract work involving product development, legacy modernization, internal platforms, and technically involved web applications.
+
+[Download my résumé](/assets/Mihnea-Ionita-Resume.pdf)
