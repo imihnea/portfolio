@@ -15,8 +15,9 @@ export default function BlogListHome(props) {
 
 const PostMaker = ({ data }) => (
   <section className="home-posts">
+    <p className="eyebrow">Selected work</p>
     <h2>
-      Most recent <strong>Projects</strong>{" "}
+      Products, platforms, and systems{" "}
       <span className="icon -right">
         <RiArrowDownLine />
       </span>
@@ -29,10 +30,17 @@ const PostMaker = ({ data }) => (
         variant: "variants.button",
       }}
     >
-      See more
+      View all projects
       <span className="icon -right">
         <RiArrowRightSLine />
       </span>
     </Link>
+    <div className="portfolio-cta">
+      <p className="eyebrow">Available for selected contract work</p>
+      <h2>Have a product that needs careful engineering?</h2>
+      <Link className="text-link" to="/contact">
+        Get in touch <RiArrowRightSLine />
+      </Link>
+    </div>
   </section>
 )

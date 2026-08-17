@@ -11,11 +11,11 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Copyright{" "}
+        {" "}
         <span className="icon">
           <RiCopyrightFill />
         </span>{" "}
-        Mihnea Ionita {new Date().getFullYear()}
+        Mihnea Ionita {new Date().getFullYear()} · Software Engineer
       </p>
     </div>
   </footer>

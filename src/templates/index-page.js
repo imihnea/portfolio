@@ -197,14 +197,22 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <Seo />
-      <div className="home-banner grids col-1 sm-2">
-        <div>
-          <h1 className="title">{frontmatter.title}</h1>
+      <section
+        className="home-hero"
+        sx={{
+          bg: "siteColor",
+        }}
+      >
+        <div className="home-banner grids col-1 sm-2">
+        <div className="home-copy">
+          <p className="eyebrow">Based in Romania · Working internationally</p>
+          <h1 className="title">
+            {frontmatter.title.split(" ").map(namePart => (
+              <span key={namePart}>{namePart}</span>
+            ))}
+          </h1>
           <p
             className="tagline"
-            sx={{
-              color: "muted",
-            }}
           >
             {frontmatter.tagline}
           </p>
@@ -212,18 +220,17 @@ const HomePage = ({ data }) => {
             className="description"
             dangerouslySetInnerHTML={{ __html: html }}
           />
-          <Link
-            to={frontmatter.cta.ctaLink}
-            className="button"
-            sx={{
-              variant: "variants.button",
-            }}
-          >
-            {frontmatter.cta.ctaText}
-            <span className="icon -right">
-              <RiArrowRightSLine />
-            </span>
-          </Link>
+          <div className="hero-actions">
+            <Link to={frontmatter.cta.ctaLink} className="button -light">
+              {frontmatter.cta.ctaText}
+              <span className="icon -right">
+                <RiArrowRightSLine />
+              </span>
+            </Link>
+            <Link to="/contact" className="text-link">
+              Discuss a project
+            </Link>
+          </div>
           <div
             className="social-icons"
             sx={{
@@ -233,7 +240,7 @@ const HomePage = ({ data }) => {
             {sIcons}
           </div>
         </div>
-        <div>
+        <div className="home-portrait">
           {Image ? (
             <GatsbyImage
               image={Image}
@@ -244,7 +251,31 @@ const HomePage = ({ data }) => {
             ""
           )}
         </div>
-      </div>
+        </div>
+      </section>
+      <section className="capabilities" aria-labelledby="capabilities-title">
+        <div className="section-intro">
+          <p className="eyebrow">What I work on</p>
+          <h2 id="capabilities-title">Software that has to keep working.</h2>
+        </div>
+        <div className="capability-list">
+          <div>
+            <span>01</span>
+            <h3>Product engineering</h3>
+            <p>Customer-facing applications, commerce, payments, and complete product launches.</p>
+          </div>
+          <div>
+            <span>02</span>
+            <h3>Platform modernization</h3>
+            <p>Legacy migrations, reusable systems, build tooling, performance, and maintainability.</p>
+          </div>
+          <div>
+            <span>03</span>
+            <h3>Internal systems</h3>
+            <p>Operational tools, data-backed workflows, email infrastructure, and service integrations.</p>
+          </div>
+        </div>
+      </section>
       <BlogListHome data={posts} />
     </Layout>
   )
