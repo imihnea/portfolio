@@ -21,4 +21,4 @@ Technical approach:
 - Responsive optimization: Full mobile and tablet responsiveness across all sections
 - Performance: Lightweight, fast-loading static site with optimized assets
 
-This project demonstrates versatility in approach—choosing custom implementation over framework dependencies when appropriate—while maintaining the same high standards of design accuracy and user experience delivery.
+This project demonstrates versatility in approach, choosing custom implementation over framework dependencies when appropriate while maintaining the same high standards of design accuracy and user experience delivery.

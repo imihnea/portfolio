@@ -26,7 +26,7 @@ Both games are maintained products rather than one-off prototypes. The studio wo
 
 ## Released products
 
-- **[Petalpop](/projects/petalpop)** — a cluster-pop puzzle game with campaign, daily, endless, and zen modes
-- **[Matchjong Gardens](/projects/matchjong-gardens)** — a Mahjong-inspired match-3 game with 10,000 campaign levels and 44-language localisation
+- **[Petalpop](/projects/petalpop):** a cluster-pop puzzle game with campaign, daily, endless, and zen modes
+- **[Matchjong Gardens](/projects/matchjong-gardens):** a Mahjong-inspired match-3 game with 10,000 campaign levels and 44-language localisation
 
 ![Matchjong Gardens](/assets/softgrove-matchjong.png "Matchjong Gardens")

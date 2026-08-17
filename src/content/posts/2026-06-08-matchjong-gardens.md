@@ -26,7 +26,7 @@ Matchjong Gardens is a Mahjong-inspired match-3 game that I independently design
 
 I developed the gameplay and progression systems, the content pipeline needed to support thousands of levels, the user interface, and the supporting mobile integrations. The commercial release also involved in-app purchases, advertising and consent flows, daily rewards, store services, and post-launch updates.
 
-The game is localised into 44 languages and available on both major mobile stores. That required treating localisation, release metadata, screenshots, compatibility, and store review as part of the product—not as work left until the end.
+The game is localised into 44 languages and available on both major mobile stores. That required treating localisation, release metadata, screenshots, compatibility, and store review as part of the product, not as work left until the end.
 
 ## What it demonstrates
 
