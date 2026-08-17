@@ -37,6 +37,9 @@ export const blogListQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             slug
             title
+            description
+            category
+            stack
             featuredImage {
               childImageSharp {
                 gatsbyImageData(layout: CONSTRAINED, width: 345, height: 260)
@@ -116,7 +119,15 @@ class BlogIndex extends React.Component {
             "Stackrole base blog page " + currentPage + " of " + numPages
           }
         />
-        <h1>Projects</h1>
+        <header className="projects-index-header">
+          <p className="eyebrow">Selected work</p>
+          <h1>Projects</h1>
+          <p>
+            Production platforms, commerce systems, independent products, and
+            mobile releases. Each case study focuses on the engineering work I
+            owned and the system around it.
+          </p>
+        </header>
         <div className="grids col-1 sm-2 lg-3">{posts}</div>
         <Pagination {...props} />
       </Layout>

@@ -12,6 +12,10 @@ description: I had the opportunity to work on an exciting web project recently,
   with styles written in SCSS and Javascript bundled up in a few files before
   uploading the project to the Ghost platform.
 featuredImage: /assets/chrome_hg4yayznue.png
+category: Creator infrastructure
+role: Software engineering
+period: 2023–2025
+stack: [Ghost, Handlebars, SCSS, Stripe, Linux]
 ---
 <https://bearerine.com>
 

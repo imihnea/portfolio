@@ -5,6 +5,10 @@ slug: /projects/the-great-war-rivals
 date: 2023-02-24 21:37
 description: My experience developing The Great War Rivals.
 featuredImage: /assets/firefox_greatwarrivals.jpg
+category: Marketing website
+role: Frontend engineering
+period: "2023"
+stack: [Svelte, JavaScript, CSS, Figma]
 ---
 <https://www.thegreatwarrivals.com/>
 

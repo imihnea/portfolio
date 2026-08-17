@@ -5,6 +5,10 @@ slug: /projects/game-of-nations
 date: 2023-12-30 00:00
 description: My experience developing Game of Nations.
 featuredImage: /assets/chrome_d90pzqdnet.jpg
+category: Game commerce
+role: Frontend engineering
+period: "2023"
+stack: [Svelte, JavaScript, CSS, REST APIs]
 ---
 <https://gameofnations.net/>
 

@@ -92,10 +92,36 @@ const Post = ({ data, pageContext }) => {
         article={true}
       />
       <article className="blog-post">
-        <header className="featured-banner">
-          <section className="article-header">
-            <h1>{frontmatter.title}</h1>
-          </section>
+        <header className="case-study-header">
+          {frontmatter.category && (
+            <p className="eyebrow">{frontmatter.category}</p>
+          )}
+          <h1>{frontmatter.title}</h1>
+          {frontmatter.description && (
+            <p className="case-study-summary">{frontmatter.description}</p>
+          )}
+          <dl className="project-facts">
+            {frontmatter.role && (
+              <div>
+                <dt>Role</dt>
+                <dd>{frontmatter.role}</dd>
+              </div>
+            )}
+            {frontmatter.period && (
+              <div>
+                <dt>Period</dt>
+                <dd>{frontmatter.period}</dd>
+              </div>
+            )}
+            {frontmatter.stack && frontmatter.stack.length > 0 && (
+              <div>
+                <dt>Stack</dt>
+                <dd>{frontmatter.stack.join(" · ")}</dd>
+              </div>
+            )}
+          </dl>
+        </header>
+        <div className="featured-banner">
           {Image ? (
             <GatsbyImage
               image={Image}
@@ -105,7 +131,7 @@ const Post = ({ data, pageContext }) => {
           ) : (
             ""
           )}
-        </header>
+        </div>
 
         <div
           className="blog-post-content"
@@ -130,6 +156,10 @@ export const pageQuery = graphql`
         slug
         title
         description
+        category
+        role
+        period
+        stack
         featuredImage {
           childImageSharp {
             gatsbyImageData(layout: FULL_WIDTH)

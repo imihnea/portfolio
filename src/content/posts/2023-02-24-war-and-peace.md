@@ -5,6 +5,10 @@ slug: /projects/war-and-peace
 date: 2024-01-01 00:00
 description: Product engineering and commerce work for a long-running strategy game.
 featuredImage: /assets/chrome_Hde2Gels8M.jpg
+category: Commerce platform
+role: Software engineering · B2B contractor
+period: 2019–present
+stack: [Svelte, Vite, JavaScript, Firebase, REST APIs]
 ---
 <https://warandpeace.com/>
 

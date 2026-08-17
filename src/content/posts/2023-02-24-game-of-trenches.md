@@ -5,6 +5,10 @@ slug: /projects/game-of-trenches
 date: 2023-02-24 21:40
 description: My experience developing Game of Trenches.
 featuredImage: /assets/chrome_oqbodajveh.jpg
+category: Marketing website
+role: Frontend engineering
+period: "2023"
+stack: [Svelte, JavaScript, CSS, Photoshop]
 ---
 <https://www.gameoftrenches.com/>
 

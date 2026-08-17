@@ -22,6 +22,9 @@ const PostCard = ({ data }) => (
       ""
     )}
     <div className="post-content">
+      {data.frontmatter.category ? (
+        <p className="eyebrow">{data.frontmatter.category}</p>
+      ) : null}
       <h2 className="title">
         <Link
           to={data.frontmatter.slug}
@@ -32,6 +35,14 @@ const PostCard = ({ data }) => (
           {data.frontmatter.title}
         </Link>
       </h2>
+      {data.frontmatter.description ? (
+        <p className="description">{data.frontmatter.description}</p>
+      ) : null}
+      {data.frontmatter.stack && data.frontmatter.stack.length > 0 ? (
+        <p className="stack-line">
+          {data.frontmatter.stack.slice(0, 3).join(" · ")}
+        </p>
+      ) : null}
     </div>
   </article>
 )

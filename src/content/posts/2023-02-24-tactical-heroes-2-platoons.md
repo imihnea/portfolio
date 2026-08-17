@@ -5,6 +5,10 @@ slug: /projects/tactical-heroes
 date: 2023-02-24 21:38
 description: My experience developing Tactical Heroes 2 Platoons.
 featuredImage: /assets/chrome_9k3usv1jgc.jpg
+category: Marketing website
+role: Frontend engineering
+period: "2023"
+stack: [Svelte, JavaScript, CSS, Photoshop]
 ---
 <http://www.tacticalheroes.com/>
 

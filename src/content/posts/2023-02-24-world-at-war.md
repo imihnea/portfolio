@@ -5,6 +5,10 @@ slug: /projects/world-at-war
 date: 2023-02-24 21:39
 description: My experience developing World at War.
 featuredImage: /assets/firefox_worldatwar.jpg
+category: Marketing website
+role: Frontend engineering
+period: "2023"
+stack: [Svelte, JavaScript, CSS, Figma]
 ---
 <https://www.worldatwarww2.com/>
 

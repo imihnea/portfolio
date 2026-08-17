@@ -5,6 +5,10 @@ slug: /projects/eRepublik
 date: 2023-12-31 00:00
 description: My experience developing eRepublik.
 featuredImage: /assets/chrome_fizwh1hteo.jpg
+category: Production web platform
+role: Software engineering · B2B contractor
+period: 2019–present
+stack: [Vue, AngularJS, JavaScript, jQuery, BigQuery, AWS SES]
 ---
 <https://www.erepublik.com/>
 

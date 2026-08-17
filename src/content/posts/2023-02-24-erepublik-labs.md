@@ -5,6 +5,10 @@ slug: /projects/erepublik-labs
 date: 2023-12-29 00:00
 description: My experience developing the eRepublik Labs company website.
 featuredImage: /assets/firefox_erepubliklabs.png
+category: Corporate website
+role: Frontend engineering
+period: "2023"
+stack: [HTML, CSS, JavaScript, Figma]
 ---
 <https://www.erepubliklabs.com/>
 
