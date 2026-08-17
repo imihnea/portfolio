@@ -3,22 +3,30 @@ template: blog-post
 title: SoftGrove Games
 slug: /projects/softgrove-games
 date: 2026-06-10 00:00
-description: Two independently built and published mobile puzzle games for iOS and Android.
+description: Independent mobile studio behind Petalpop and Matchjong Gardens.
 featuredImage: /assets/softgrove-matchjong.png
+category: Independent mobile studio
+role: Founder · Product and software engineering
+period: 2026–present
+stack: [Mobile products, iOS, Android, App Store, Google Play]
 ---
 
 <https://www.softgrovegames.com/>
 
-SoftGrove Games is my independent mobile game studio. I designed, built, and published two puzzle games for iOS and Android: Petalpop and Matchjong Gardens.
+SoftGrove Games is my independent mobile game studio and the publishing home for [Petalpop](/projects/petalpop) and [Matchjong Gardens](/projects/matchjong-gardens). I created it to take mobile products through the complete lifecycle: concept, engineering, release, and continued operation.
 
 The work covered the complete product lifecycle rather than a single part of the application:
 
-- Gameplay systems, progression, daily content, and level generation
-- Cross-platform interface development and device-specific behavior
-- In-app purchases, leaderboards, consent flows, and store integrations
-- App Store and Google Play release pipelines, metadata, localization, and review requirements
+- Shared product and publishing decisions across two distinct games
+- App Store and Google Play release pipelines, metadata, localisation, and review requirements
+- Monetisation, consent, leaderboards, store integrations, and release operations
 - Product identity, screenshots, websites, support, and post-launch updates
 
-Both games were built as maintained products, with multiple play modes, long-form progression, and shared studio infrastructure. Shipping them gave me practical experience across mobile product design, release operations, monetization, and the less visible work required to keep an application available on two stores.
+Both games are maintained products rather than one-off prototypes. The studio work brings together mobile product design, engineering, release operations, monetisation, localisation, and the less visible work required to keep applications available on two stores.
+
+## Released products
+
+- **[Petalpop](/projects/petalpop)** — a cluster-pop puzzle game with campaign, daily, endless, and zen modes
+- **[Matchjong Gardens](/projects/matchjong-gardens)** — a Mahjong-inspired match-3 game with 10,000 campaign levels and 44-language localisation
 
 ![Matchjong Gardens](/assets/softgrove-matchjong.png "Matchjong Gardens")
